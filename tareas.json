@@ -1,27 +1,27 @@
 [
   {
-    "Titulo": "Tarea 1",
-    "Estado": "Pendiente"
+    "titulo": "Tarea 1",
+    "estado": "Pendiente"
   },
   {
-    "Titulo": "Tarea 2",
-    "Estado": "En progreso"
+    "titulo": "Tarea 2",
+    "estado": "En proceso"
   },
   {
-    "Titulo": "Tarea 3",
-    "Estado": "Pendiente"
+    "titulo": "Tarea 3",
+    "estado": "Pendiente"
   },
   {
-    "Titulo": "Tarea 4",
-    "Estado": "Terminada"
+    "titulo": "Tarea 4",
+    "estado": "Terminada"
   },
   {
-    "Titulo": "Tarea 5",
-    "Estado": "Pendiente"
+    "titulo": "Tarea 5",
+    "estado": "Pendiente"
   },
   {
-    "Titulo": "Tarea 6",
-    "Estado": "Terminada"
+    "titulo": "Tarea 6",
+    "estado": "Terminada"
   },
   {
     "titulo": "Tarea 7",
@@ -38,5 +38,9 @@
   {
     "titulo": "Tarea 10",
     "estado": "Pendiente"
+  },
+  {
+    "titulo": "Tarea 11",
+    "estado": "Terminada"
   }
 ]
